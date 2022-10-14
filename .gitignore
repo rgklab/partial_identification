@@ -9,3 +9,5 @@ __pycache__/
 *.slrm
 */wandb/
 run_train.sh
+notebooks/
+experiments/results/
